@@ -413,6 +413,35 @@
       white-space: nowrap;
     }
 
+    /* Signal strength */
+    .signal-badge { display: inline-flex; align-items: center; gap: 7px; white-space: nowrap; }
+    .signal-score {
+      width: 30px; height: 30px;
+      border-radius: 7px;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px; font-weight: 800;
+    }
+    .signal-score.strong   { background: var(--buy-bg);              color: var(--buy);   border: 1px solid var(--buy-border);  }
+    .signal-score.moderate { background: rgba(245,158,11,.10);       color: #f59e0b;      border: 1px solid rgba(245,158,11,.30); }
+    .signal-score.weak     { background: var(--sell-bg);             color: var(--sell);  border: 1px solid var(--sell-border); }
+    .signal-text { font-size: 10px; font-weight: 700; letter-spacing: 0.06em; }
+    .signal-text.strong   { color: var(--buy);   }
+    .signal-text.moderate { color: #f59e0b;      }
+    .signal-text.weak     { color: var(--sell);  }
+
+    /* Ticker link */
+    .ticker-link {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px; color: var(--accent);
+      background: rgba(99,102,241,0.08);
+      border: 1px solid rgba(99,102,241,0.20);
+      display: inline-block; padding: 1px 6px;
+      border-radius: 4px; text-decoration: none;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+    }
+    .ticker-link:hover { background: rgba(99,102,241,0.20); border-color: rgba(99,102,241,0.50); color: #fff; }
+
     /* Amount bar */
     .amount-wrap { display: flex; align-items: center; gap: 8px; justify-content: flex-end; }
     .amount-bar-bg {
@@ -599,12 +628,13 @@
           <th data-col="relationship"              >Role        <span class="sort-arrow">↕</span></th>
           <th data-col="action"                    >Action      <span class="sort-arrow">↕</span></th>
           <th data-col="dollar_amount" id="th-amt" >Amount      <span class="sort-arrow">↕</span></th>
+          <th data-col="signal"                    >Signal      <span class="sort-arrow">↕</span></th>
           <th data-col="period_ending"             >Txn Date    <span class="sort-arrow">↕</span></th>
           <th data-col="file_date"                 >Filed Date  <span class="sort-arrow">↕</span></th>
         </tr>
       </thead>
       <tbody id="tableBody">
-        <tr><td colspan="9">
+        <tr><td colspan="10">
           <div class="empty-state">
             <div class="icon">⏳</div>
             <h3>Loading filings…</h3>
@@ -633,6 +663,41 @@
   let sortDir     = 'asc';
   let activeFilter = 'ALL';
   let maxAbsAmt   = 1;
+
+  // ── Signal strength ─────────────────────────────────────────────────
+  function calcSignal(f) {
+    let score = 0;
+    const amt = Math.abs(f.dollar_amount || 0);
+    if      (amt >= 5_000_000) score += 4;
+    else if (amt >= 1_000_000) score += 3;
+    else if (amt >= 250_000)   score += 2;
+    else if (amt >= 50_000)    score += 1;
+
+    const role = (f.relationship || '').toLowerCase();
+    if      (/ceo|chief executive|president|exec.{0,10}chair/i.test(role)) score += 4;
+    else if (/cfo|coo|cto|chief financial|chief operating|chief tech/i.test(role)) score += 3;
+    else if (/director/i.test(role))        score += 2;
+    else if (/officer/i.test(role))         score += 2;
+    else if (/tenpercentowner/i.test(role)) score += 1;
+
+    const ac = actionClass(f.action);
+    if      (ac === 'buy')  score += 2;
+    else if (ac === 'sell') score += 1;
+
+    return Math.max(1, Math.min(10, score));
+  }
+
+  function signalClass(score) {
+    if (score >= 7) return 'strong';
+    if (score >= 4) return 'moderate';
+    return 'weak';
+  }
+
+  function signalLabel(score) {
+    if (score >= 7) return 'STRONG';
+    if (score >= 4) return 'MID';
+    return 'WEAK';
+  }
 
   // ── Helpers ─────────────────────────────────────────────────────────
   function fmtMoney(n) {
@@ -676,7 +741,7 @@
   function renderTable() {
     const tbody = document.getElementById('tableBody');
     if (!filtered.length) {
-      tbody.innerHTML = `<tr><td colspan="9">
+      tbody.innerHTML = `<tr><td colspan="10">
         <div class="empty-state">
           <div class="icon">🔍</div>
           <h3>No results found</h3>
@@ -700,7 +765,7 @@
           <div class="company-name">${escHtml(f.company_name)}</div>
           <div class="company-ticker">${escHtml(f.ticker)}</div>
         </td>
-        <td>${escHtml(f.ticker)}</td>
+        <td>${f.ticker !== 'N/A' ? `<a href="https://finance.yahoo.com/quote/${encodeURIComponent(f.ticker)}" target="_blank" rel="noopener" class="ticker-link">${escHtml(f.ticker)}</a>` : escHtml(f.ticker)}</td>
         <td class="cell-insider">
           <div class="insider-name">${escHtml(f.insider_name)}</div>
         </td>
@@ -721,6 +786,12 @@
             ${hasAmt ? fmtMoney(amt) : '<span style="color:var(--text-muted);font-weight:400">N/A</span>'}
           </div>
         </td>
+        <td>
+          <div class="signal-badge">
+            <span class="signal-score ${signalClass(f.signal)}">${f.signal}</span>
+            <span class="signal-text ${signalClass(f.signal)}">${signalLabel(f.signal)}</span>
+          </div>
+        </td>
         <td class="cell-date">${escHtml(f.period_ending)}</td>
         <td class="cell-date">${escHtml(f.file_date)}</td>
       </tr>`;
@@ -733,7 +804,7 @@
   function applySort() {
     filtered.sort((a, b) => {
       let va = a[sortCol], vb = b[sortCol];
-      if (sortCol === 'dollar_amount') {
+      if (sortCol === 'dollar_amount' || sortCol === 'signal') {
         va = va ?? -Infinity;
         vb = vb ?? -Infinity;
         return sortDir === 'asc' ? va - vb : vb - va;
@@ -828,6 +899,9 @@
       const meta = await resp.json();
       allFilings = meta.filings || [];
 
+      // Compute signal scores
+      allFilings.forEach(f => { f.signal = calcSignal(f); });
+
       // Compute max dollar for bar scaling
       maxAbsAmt = Math.max(1, ...allFilings.map(f => Math.abs(f.dollar_amount || 0)));
 
@@ -836,7 +910,7 @@
     } catch (err) {
       console.error(err);
       document.getElementById('error-banner').style.display = 'block';
-      document.getElementById('tableBody').innerHTML = `<tr><td colspan="9">
+      document.getElementById('tableBody').innerHTML = `<tr><td colspan="10">
         <div class="empty-state">
           <div class="icon">⚠️</div>
           <h3>Could not load filings.json</h3>
