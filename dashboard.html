@@ -259,8 +259,9 @@
       color: #fff;
       box-shadow: 0 0 16px var(--accent-glow);
     }
-    .filter-btn.buy.active  { background: var(--buy);  border-color: var(--buy);  box-shadow: 0 0 16px var(--buy-glow); }
-    .filter-btn.sell.active { background: var(--sell); border-color: var(--sell); box-shadow: 0 0 16px var(--sell-glow); }
+    .filter-btn.buy.active      { background: var(--buy);  border-color: var(--buy);  box-shadow: 0 0 16px var(--buy-glow); }
+    .filter-btn.sell.active     { background: var(--sell); border-color: var(--sell); box-shadow: 0 0 16px var(--sell-glow); }
+    .filter-btn.highconv.active { background: #f59e0b;     border-color: #f59e0b;     box-shadow: 0 0 16px rgba(245,158,11,0.30); color: #000; }
 
     .count-badge {
       display: inline-block;
@@ -611,7 +612,8 @@
       <button class="filter-btn active" data-filter="ALL" id="btn-ALL">All</button>
       <button class="filter-btn buy"  data-filter="BUY"  id="btn-BUY">▲ Buy</button>
       <button class="filter-btn sell" data-filter="SELL" id="btn-SELL">▼ Sell</button>
-      <button class="filter-btn"      data-filter="AWARD" id="btn-AWARD">★ Award</button>
+      <button class="filter-btn"          data-filter="AWARD"    id="btn-AWARD">★ Award</button>
+      <button class="filter-btn highconv" data-filter="HIGHCONV" id="btn-HIGHCONV">⚡ High Conv</button>
     </div>
     <span class="count-badge" id="rowCount">— rows</span>
   </div>
@@ -837,9 +839,10 @@
       // Action filter
       if (activeFilter !== 'ALL') {
         const ac = actionClass(f.action).toUpperCase();
-        if (activeFilter === 'BUY'   && ac !== 'BUY')   return false;
-        if (activeFilter === 'SELL'  && ac !== 'SELL')  return false;
-        if (activeFilter === 'AWARD' && ac !== 'AWARD') return false;
+        if (activeFilter === 'BUY'      && ac !== 'BUY')                              return false;
+        if (activeFilter === 'SELL'     && ac !== 'SELL')                             return false;
+        if (activeFilter === 'AWARD'    && ac !== 'AWARD')                            return false;
+        if (activeFilter === 'HIGHCONV' && !(ac === 'BUY' && f.signal >= 7))         return false;
       }
       // Search
       if (q) {
