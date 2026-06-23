@@ -1,0 +1,2796 @@
+{
+  "generated_at": "2026-06-23T02:10:11.841234Z",
+  "total_filings_in_range": 9235,
+  "filings_retrieved": 50,
+  "filings": [
+    {
+      "rank": 1,
+      "company_name": "Energizer Holdings, Inc.",
+      "ticker": "ENR",
+      "insider_name": "Aqua Capital, Ltd.",
+      "relationship": "Unknown",
+      "action": "BUY",
+      "dollar_amount": 1350010.738,
+      "dollar_amount_fmt": "$1.35M",
+      "file_date": "2026-06-22",
+      "period_ending": "2026-06-17",
+      "accession_number": "0001140361-26-025904",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126025904/form4.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 14000.0,
+          "price_per_share": 19.9979,
+          "dollar_amount": 279970.60000000003,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 10314.0,
+          "price_per_share": 20.217,
+          "dollar_amount": 208518.13799999998,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-18",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 20000.0,
+          "price_per_share": 21.541,
+          "dollar_amount": 430820.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-18",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 20000.0,
+          "price_per_share": 21.5351,
+          "dollar_amount": 430702.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "company_name": "Acadian Asset Management Inc.",
+      "ticker": "AAMI",
+      "insider_name": "Paulson & Co. Inc.",
+      "relationship": "Unknown",
+      "action": "SELL",
+      "dollar_amount": 146775000.0,
+      "dollar_amount_fmt": "$146.78M",
+      "file_date": "2026-06-22",
+      "period_ending": "2026-06-17",
+      "accession_number": "0001013594-26-000681",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1748824/000101359426000681/form4.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1900000.0,
+          "price_per_share": 77.25,
+          "dollar_amount": 146775000.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "company_name": "Arrow Financial Corp",
+      "ticker": "AROW",
+      "insider_name": "Duffy Kristine D",
+      "relationship": "Director",
+      "action": "OTHER",
+      "dollar_amount": 7505.55,
+      "dollar_amount_fmt": "$7.5K",
+      "file_date": "2026-06-22",
+      "period_ending": "2026-06-17",
+      "accession_number": "0002043837-26-000006",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/717538/000204383726000006/wk-form4_1782161558.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "J",
+          "action": "OTHER",
+          "acquired_or_disposed": "A",
+          "shares": 195.0,
+          "price_per_share": 38.49,
+          "dollar_amount": 7505.55,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "company_name": "Vinci Compass Investments Ltd.",
+      "ticker": "VINP",
+      "insider_name": "Ribeiro Sergio Passos",
+      "relationship": "Officer, Chief Financial Officer",
+      "action": "SELL",
+      "dollar_amount": 140792.16999999998,
+      "dollar_amount_fmt": "$140.8K",
+      "file_date": "2026-06-22",
+      "period_ending": "2026-06-17",
+      "accession_number": "0000950103-26-009302",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1826286/000095010326009302/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 4249.0,
+          "price_per_share": 10.33,
+          "dollar_amount": 43892.17,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-18",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 10000.0,
+          "price_per_share": 9.69,
+          "dollar_amount": 96900.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "company_name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "insider_name": "Duffield David A",
+      "relationship": "TenPercentOwner",
+      "action": "SELL",
+      "dollar_amount": 13436121.7939,
+      "dollar_amount_fmt": "$13.44M",
+      "file_date": "2026-06-18",
+      "period_ending": "2026-06-17",
+      "accession_number": "0000938071-26-000035",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1327811/000093807126000035/wk-form4_1781812933.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "A",
+          "shares": 107500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 20317.0,
+          "price_per_share": 121.9553,
+          "dollar_amount": 2477765.8301,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 11478.0,
+          "price_per_share": 123.0793,
+          "dollar_amount": 1412704.2054,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 8100.0,
+          "price_per_share": 124.1531,
+          "dollar_amount": 1005640.11,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 17156.0,
+          "price_per_share": 125.1819,
+          "dollar_amount": 2147620.6763999998,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 27209.0,
+          "price_per_share": 126.341,
+          "dollar_amount": 3437612.269,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 20675.0,
+          "price_per_share": 127.0421,
+          "dollar_amount": 2626595.4175,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 2565.0,
+          "price_per_share": 127.9467,
+          "dollar_amount": 328183.2855,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "D",
+          "shares": 107500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "company_name": "Getaround, Inc",
+      "ticker": "N/A",
+      "insider_name": "Mudrick Capital Management, L.P.",
+      "relationship": "TenPercentOwner",
+      "action": "CONVERT",
+      "dollar_amount": 25000000.0,
+      "dollar_amount_fmt": "$25.00M",
+      "file_date": "2026-06-18",
+      "period_ending": "2026-06-16",
+      "accession_number": "0001104659-26-075891",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1839608/000110465926075891/tm2618276-2_4seq1.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "A",
+          "shares": 100000000.0,
+          "price_per_share": 0.25,
+          "dollar_amount": 25000000.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "D",
+          "shares": 100000000.0,
+          "price_per_share": null,
+          "dollar_amount": null,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "company_name": "Getaround, Inc",
+      "ticker": "N/A",
+      "insider_name": "Mudrick Capital Management, L.P.",
+      "relationship": "TenPercentOwner",
+      "action": "CONVERT",
+      "dollar_amount": 25000000.0,
+      "dollar_amount_fmt": "$25.00M",
+      "file_date": "2026-06-18",
+      "period_ending": "2026-06-16",
+      "accession_number": "0001104659-26-075890",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1839608/000110465926075890/tm2618276-1_4seq1.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "A",
+          "shares": 100000000.0,
+          "price_per_share": 0.25,
+          "dollar_amount": 25000000.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "D",
+          "shares": 100000000.0,
+          "price_per_share": null,
+          "dollar_amount": null,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "company_name": "Sofi Technologies, Inc.",
+      "ticker": "SOFI",
+      "insider_name": "Rishel Jeremy",
+      "relationship": "Officer, Chief Technology Officer",
+      "action": "SELL",
+      "dollar_amount": 1815746.9400000002,
+      "dollar_amount_fmt": "$1.82M",
+      "file_date": "2026-06-17",
+      "period_ending": "2026-06-08",
+      "accession_number": "0001934200-26-000007",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1818874/000193420026000007/wk-form4_1781740295.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 1315.471,
+          "price_per_share": 13.626,
+          "dollar_amount": 17924.607846,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 271751.0,
+          "price_per_share": null,
+          "dollar_amount": null,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 28749.0,
+          "price_per_share": null,
+          "dollar_amount": null,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 11362.0,
+          "price_per_share": null,
+          "dollar_amount": null,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 155605.0,
+          "price_per_share": 17.606,
+          "dollar_amount": 2739581.6300000004,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 102123.0,
+          "price_per_share": 17.78,
+          "dollar_amount": 1815746.9400000002,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 271751.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 28749.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 11362.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "company_name": "Dynatrace, Inc.",
+      "ticker": "DT",
+      "insider_name": "Greifeneder Bernd",
+      "relationship": "Officer, EVP, Chief Technology Officer",
+      "action": "N/A",
+      "dollar_amount": null,
+      "dollar_amount_fmt": "N/A",
+      "file_date": "2026-06-17",
+      "period_ending": "2026-06-05",
+      "accession_number": "0001783507-26-000008",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1773383/000178350726000008/wk-form4a_1781727005.xml",
+      "transactions": []
+    },
+    {
+      "rank": 10,
+      "company_name": "Anterix Inc.",
+      "ticker": "ATEX",
+      "insider_name": "Guttman-Mccabe Christopher",
+      "relationship": "Officer, Chief Reg & Comm Officer",
+      "action": "SELL",
+      "dollar_amount": 7539883.8278,
+      "dollar_amount_fmt": "$7.54M",
+      "file_date": "2026-06-17",
+      "period_ending": "2026-06-15",
+      "accession_number": "0001828490-26-000008",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1304492/000182849026000008/wk-form4_1781737905.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 11750.0,
+          "price_per_share": 25.75,
+          "dollar_amount": 302562.5,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 8000.0,
+          "price_per_share": 32.5,
+          "dollar_amount": 260000.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 50876.0,
+          "price_per_share": 34.4,
+          "dollar_amount": 1750134.4,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 20000.0,
+          "price_per_share": 37.42,
+          "dollar_amount": 748400.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 6715.0,
+          "price_per_share": 42.14,
+          "dollar_amount": 282970.1,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 25511.0,
+          "price_per_share": 49.39,
+          "dollar_amount": 1259988.29,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 35321.0,
+          "price_per_share": 81.3236,
+          "dollar_amount": 2872430.8756,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 26411.0,
+          "price_per_share": 82.2727,
+          "dollar_amount": 2172904.2797,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 16381.0,
+          "price_per_share": 83.7233,
+          "dollar_amount": 1371471.3772999998,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 13324.0,
+          "price_per_share": 84.2898,
+          "dollar_amount": 1123077.2952,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 11750.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 8000.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 50876.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 20000.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 6715.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 25511.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "company_name": "Vinci Compass Investments Ltd.",
+      "ticker": "VINP",
+      "insider_name": "Ribeiro Sergio Passos",
+      "relationship": "Officer, Chief Financial Officer",
+      "action": "SELL",
+      "dollar_amount": 146533.44,
+      "dollar_amount_fmt": "$146.5K",
+      "file_date": "2026-06-17",
+      "period_ending": "2026-06-15",
+      "accession_number": "0000950103-26-009146",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1826286/000095010326009146/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 13061.0,
+          "price_per_share": 10.0,
+          "dollar_amount": 130610.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1586.0,
+          "price_per_share": 10.04,
+          "dollar_amount": 15923.439999999999,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "company_name": "Nextboat Inc.",
+      "ticker": "OTH",
+      "insider_name": "Ruegg Jason Daniel",
+      "relationship": "Director, Officer, TenPercentOwner, President and Chairman",
+      "action": "GIFT",
+      "dollar_amount": 25624.999999999996,
+      "dollar_amount_fmt": "$25.6K",
+      "file_date": "2026-06-17",
+      "period_ending": "2026-06-16",
+      "accession_number": "0001493152-26-029107",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226029107/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "G",
+          "action": "GIFT",
+          "acquired_or_disposed": "D",
+          "shares": 12500.0,
+          "price_per_share": 2.05,
+          "dollar_amount": 25624.999999999996,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "G",
+          "action": "GIFT",
+          "acquired_or_disposed": "D",
+          "shares": 12500.0,
+          "price_per_share": 2.05,
+          "dollar_amount": 25624.999999999996,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "G",
+          "action": "GIFT",
+          "acquired_or_disposed": "D",
+          "shares": 100000.0,
+          "price_per_share": 2.05,
+          "dollar_amount": 204999.99999999997,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-16",
+          "transaction_code": "J",
+          "action": "OTHER",
+          "acquired_or_disposed": "D",
+          "shares": 54000.0,
+          "price_per_share": 2.05,
+          "dollar_amount": 110699.99999999999,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "company_name": "Burlington Stores, Inc.",
+      "ticker": "BURL",
+      "insider_name": "Vecchio Jennifer",
+      "relationship": "Group President and CMO",
+      "action": "SELL",
+      "dollar_amount": 7144823.11,
+      "dollar_amount_fmt": "$7.14M",
+      "file_date": "2026-06-16",
+      "period_ending": "2026-06-12",
+      "accession_number": "0001193125-26-272898",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526272898/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 10534.0,
+          "price_per_share": 170.08,
+          "dollar_amount": 1791622.7200000002,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "A",
+          "shares": 10386.0,
+          "price_per_share": 179.46,
+          "dollar_amount": 1863871.56,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1317.0,
+          "price_per_share": 339.13,
+          "dollar_amount": 446634.21,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 2740.0,
+          "price_per_share": 340.48,
+          "dollar_amount": 932915.2000000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 10787.0,
+          "price_per_share": 341.57,
+          "dollar_amount": 3684515.59,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 5847.0,
+          "price_per_share": 342.43,
+          "dollar_amount": 2002188.21,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 229.0,
+          "price_per_share": 343.1,
+          "dollar_amount": 78569.90000000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 10534.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "M",
+          "action": "EXERCISE",
+          "acquired_or_disposed": "D",
+          "shares": 10386.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "company_name": "Qualys, Inc.",
+      "ticker": "QLYS",
+      "insider_name": "Thakar Sumedh S",
+      "relationship": "CEO & PRESIDENT",
+      "action": "SELL",
+      "dollar_amount": 367369.1,
+      "dollar_amount_fmt": "$367.4K",
+      "file_date": "2026-06-16",
+      "period_ending": "2026-06-15",
+      "accession_number": "0001558242-26-000012",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1107843/000155824226000012/form4-06162026_080620.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 200.0,
+          "price_per_share": 112.075,
+          "dollar_amount": 22415.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1500.0,
+          "price_per_share": 114.3107,
+          "dollar_amount": 171466.05,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1500.0,
+          "price_per_share": 115.6587,
+          "dollar_amount": 173488.05,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "company_name": "Vroom, Inc.",
+      "ticker": "VRMWW",
+      "insider_name": "Mudrick Capital Management, L.P.",
+      "relationship": "Director, TenPercentOwner",
+      "action": "BUY",
+      "dollar_amount": 112751.84999999999,
+      "dollar_amount_fmt": "$112.8K",
+      "file_date": "2026-06-16",
+      "period_ending": "2026-06-15",
+      "accession_number": "0001104659-26-074791",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1580864/000110465926074791/tm2618088-1_4seq1.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15595.0,
+          "price_per_share": 7.22,
+          "dollar_amount": 112595.9,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15595.0,
+          "price_per_share": 0.01,
+          "dollar_amount": 155.95000000000002,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "company_name": "Vroom, Inc.",
+      "ticker": "VRMWW",
+      "insider_name": "Mudrick Capital Management, L.P.",
+      "relationship": "Director, TenPercentOwner",
+      "action": "BUY",
+      "dollar_amount": 112751.84999999999,
+      "dollar_amount_fmt": "$112.8K",
+      "file_date": "2026-06-16",
+      "period_ending": "2026-06-15",
+      "accession_number": "0001104659-26-074792",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1580864/000110465926074792/tm2618088-2_4seq1.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15595.0,
+          "price_per_share": 7.22,
+          "dollar_amount": 112595.9,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-15",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15595.0,
+          "price_per_share": 0.01,
+          "dollar_amount": 155.95000000000002,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "company_name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "insider_name": "Duffield David A",
+      "relationship": "TenPercentOwner",
+      "action": "SELL",
+      "dollar_amount": 13815418.2239,
+      "dollar_amount_fmt": "$13.82M",
+      "file_date": "2026-06-15",
+      "period_ending": "2026-06-12",
+      "accession_number": "0000938071-26-000033",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1327811/000093807126000033/wk-form4_1781557222.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "A",
+          "shares": 107500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 9200.0,
+          "price_per_share": 126.0058,
+          "dollar_amount": 1159253.3599999999,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 10724.0,
+          "price_per_share": 126.8789,
+          "dollar_amount": 1360649.3236,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 15860.0,
+          "price_per_share": 127.9901,
+          "dollar_amount": 2029922.986,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 54009.0,
+          "price_per_share": 128.8795,
+          "dollar_amount": 6960652.9155,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 9470.0,
+          "price_per_share": 129.6333,
+          "dollar_amount": 1227627.351,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 8237.0,
+          "price_per_share": 130.7894,
+          "dollar_amount": 1077312.2878,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "D",
+          "shares": 107500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "company_name": "Chegg, Inc",
+      "ticker": "CHGG",
+      "insider_name": "Rosensweig Daniel",
+      "relationship": "Director, Officer, PRESIDENT, CEO, EXEC CHAIRMAN",
+      "action": "SELL",
+      "dollar_amount": 9205.230000000001,
+      "dollar_amount_fmt": "$9.2K",
+      "file_date": "2026-06-15",
+      "period_ending": "2026-06-12",
+      "accession_number": "0001364954-26-000060",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1364954/000136495426000060/wk-form4_1781574269.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1956.0,
+          "price_per_share": 1.11,
+          "dollar_amount": 2171.1600000000003,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-12",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 6337.0,
+          "price_per_share": 1.11,
+          "dollar_amount": 7034.070000000001,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "company_name": "Nexpoint Diversified Real Estate Trust",
+      "ticker": "NXDT-PA",
+      "insider_name": "Mcgraner Matt",
+      "relationship": "Officer, See Remarks",
+      "action": "TAX WITHHOLD",
+      "dollar_amount": 109531.17,
+      "dollar_amount_fmt": "$109.5K",
+      "file_date": "2026-06-15",
+      "period_ending": "2026-03-18",
+      "accession_number": "0001437749-26-020696",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1356115/000143774926020696/rdgdoc.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-18",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 24837.0,
+          "price_per_share": 4.41,
+          "dollar_amount": 109531.17,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "company_name": "Vroom, Inc.",
+      "ticker": "VRMWW",
+      "insider_name": "Mudrick Capital Management, L.P.",
+      "relationship": "Director, TenPercentOwner",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-15",
+      "period_ending": "2026-06-11",
+      "accession_number": "0001104659-26-074229",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1580864/000110465926074229/tm2617971-2_4seq1.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-11",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 9832.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "company_name": "Vroom, Inc.",
+      "ticker": "VRMWW",
+      "insider_name": "Mudrick Capital Management, L.P.",
+      "relationship": "Director, TenPercentOwner",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-15",
+      "period_ending": "2026-06-11",
+      "accession_number": "0001104659-26-074228",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1580864/000110465926074228/tm2617971-1_4seq1.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-11",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 9832.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "company_name": "Blacksky Technology Inc.",
+      "ticker": "BKSY-WT",
+      "insider_name": "O'Toole Brian E",
+      "relationship": "Director, Officer, CEO and President",
+      "action": "SELL",
+      "dollar_amount": 528959.2000000001,
+      "dollar_amount_fmt": "$529.0K",
+      "file_date": "2026-06-12",
+      "period_ending": "2026-06-10",
+      "accession_number": "0001753539-26-000084",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000084/wk-form4_1781294677.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 15512.0,
+          "price_per_share": 34.1,
+          "dollar_amount": 528959.2000000001,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "company_name": "Vinci Compass Investments Ltd.",
+      "ticker": "VINP",
+      "insider_name": "Ribeiro Sergio Passos",
+      "relationship": "Officer, Chief Financial Officer",
+      "action": "SELL",
+      "dollar_amount": 68020.02,
+      "dollar_amount_fmt": "$68.0K",
+      "file_date": "2026-06-12",
+      "period_ending": "2026-06-10",
+      "accession_number": "0000950103-26-008938",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1826286/000095010326008938/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1815.0,
+          "price_per_share": 9.6,
+          "dollar_amount": 17424.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-11",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 5254.0,
+          "price_per_share": 9.63,
+          "dollar_amount": 50596.020000000004,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "company_name": "Treace Medical Concepts, Inc.",
+      "ticker": "TMCI",
+      "insider_name": "Treace John T.",
+      "relationship": "Chief Executive Officer",
+      "action": "BUY",
+      "dollar_amount": 99195.54930000001,
+      "dollar_amount_fmt": "$99.2K",
+      "file_date": "2026-06-12",
+      "period_ending": "2026-06-10",
+      "accession_number": "0001193125-26-268606",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1630627/000119312526268606/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 14715.0,
+          "price_per_share": 4.024,
+          "dollar_amount": 59213.16,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-11",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 9891.0,
+          "price_per_share": 4.0423,
+          "dollar_amount": 39982.3893,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "company_name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "insider_name": "Duffield David A",
+      "relationship": "TenPercentOwner",
+      "action": "SELL",
+      "dollar_amount": 14869714.968899999,
+      "dollar_amount_fmt": "$14.87M",
+      "file_date": "2026-06-11",
+      "period_ending": "2026-06-09",
+      "accession_number": "0000938071-26-000031",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1327811/000093807126000031/wk-form4_1781222059.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "A",
+          "shares": 107500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 7419.0,
+          "price_per_share": 135.5359,
+          "dollar_amount": 1005540.8421,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 16810.0,
+          "price_per_share": 136.5227,
+          "dollar_amount": 2294946.587,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 18389.0,
+          "price_per_share": 137.3526,
+          "dollar_amount": 2525776.9614,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 24452.0,
+          "price_per_share": 138.4017,
+          "dollar_amount": 3384198.3684,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 17240.0,
+          "price_per_share": 139.4519,
+          "dollar_amount": 2404150.756,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 23190.0,
+          "price_per_share": 140.3666,
+          "dollar_amount": 3255101.454,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "D",
+          "shares": 107500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "company_name": "Marathon Bancorp, Inc. /Md/",
+      "ticker": "MBBC",
+      "insider_name": "Cornish Terry",
+      "relationship": "Officer, SVP and CCO",
+      "action": "BUY",
+      "dollar_amount": 19930.0952,
+      "dollar_amount_fmt": "$19.9K",
+      "file_date": "2026-06-11",
+      "period_ending": "2026-06-03",
+      "accession_number": "0001437749-26-020350",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1835385/000143774926020350/rdgdoc.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-03",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 263.0,
+          "price_per_share": 13.748,
+          "dollar_amount": 3615.7239999999997,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 27.0,
+          "price_per_share": 13.7678,
+          "dollar_amount": 371.7306,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 116.0,
+          "price_per_share": 14.2481,
+          "dollar_amount": 1652.7796,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 71.0,
+          "price_per_share": 14.241,
+          "dollar_amount": 1011.111,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 693.0,
+          "price_per_share": 14.5,
+          "dollar_amount": 10048.5,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 219.0,
+          "price_per_share": 14.75,
+          "dollar_amount": 3230.25,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "company_name": "Marathon Bancorp, Inc. /Md/",
+      "ticker": "MBBC",
+      "insider_name": "Zillges Nicholas W",
+      "relationship": "Director, Officer, President and CEO",
+      "action": "BUY",
+      "dollar_amount": 15439.551800000001,
+      "dollar_amount_fmt": "$15.4K",
+      "file_date": "2026-06-11",
+      "period_ending": "2026-06-03",
+      "accession_number": "0001437749-26-020346",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1835385/000143774926020346/rdgdoc.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-03",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 203.0,
+          "price_per_share": 13.748,
+          "dollar_amount": 2790.844,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 21.0,
+          "price_per_share": 13.7678,
+          "dollar_amount": 289.12379999999996,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 90.0,
+          "price_per_share": 14.2481,
+          "dollar_amount": 1282.3290000000002,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 55.0,
+          "price_per_share": 14.241,
+          "dollar_amount": 783.255,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 537.0,
+          "price_per_share": 14.5,
+          "dollar_amount": 7786.5,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 170.0,
+          "price_per_share": 14.75,
+          "dollar_amount": 2507.5,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "company_name": "Marathon Bancorp, Inc. /Md/",
+      "ticker": "MBBC",
+      "insider_name": "Knopf Michelle",
+      "relationship": "Officer, EVP and COO",
+      "action": "BUY",
+      "dollar_amount": 14936.8107,
+      "dollar_amount_fmt": "$14.9K",
+      "file_date": "2026-06-11",
+      "period_ending": "2026-06-03",
+      "accession_number": "0001437749-26-020348",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1835385/000143774926020348/rdgdoc.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-03",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 197.0,
+          "price_per_share": 13.748,
+          "dollar_amount": 2708.3559999999998,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 20.0,
+          "price_per_share": 13.7678,
+          "dollar_amount": 275.356,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 87.0,
+          "price_per_share": 14.2481,
+          "dollar_amount": 1239.5847,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 54.0,
+          "price_per_share": 14.241,
+          "dollar_amount": 769.014,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 519.0,
+          "price_per_share": 14.5,
+          "dollar_amount": 7525.5,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 164.0,
+          "price_per_share": 14.75,
+          "dollar_amount": 2419.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "company_name": "Marathon Bancorp, Inc. /Md/",
+      "ticker": "MBBC",
+      "insider_name": "Spatz Nora",
+      "relationship": "Officer, EVP and CAO",
+      "action": "BUY",
+      "dollar_amount": 54797.2422,
+      "dollar_amount_fmt": "$54.8K",
+      "file_date": "2026-06-11",
+      "period_ending": "2026-06-03",
+      "accession_number": "0001437749-26-020344",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1835385/000143774926020344/rdgdoc.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-03",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 722.0,
+          "price_per_share": 13.748,
+          "dollar_amount": 9926.055999999999,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 74.0,
+          "price_per_share": 13.7678,
+          "dollar_amount": 1018.8172,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 320.0,
+          "price_per_share": 14.2481,
+          "dollar_amount": 4559.392,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 197.0,
+          "price_per_share": 14.241,
+          "dollar_amount": 2805.477,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 1904.0,
+          "price_per_share": 14.5,
+          "dollar_amount": 27608.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 602.0,
+          "price_per_share": 14.75,
+          "dollar_amount": 8879.5,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "company_name": "Inmed Pharmaceuticals Inc.",
+      "ticker": "INM",
+      "insider_name": "Vivo Opportunity, Llc",
+      "relationship": "TenPercentOwner",
+      "action": "BUY",
+      "dollar_amount": 391554.51,
+      "dollar_amount_fmt": "$391.6K",
+      "file_date": "2026-06-10",
+      "period_ending": "2026-05-20",
+      "accession_number": "0001213900-26-067505",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1728328/000121390026067505/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-05-20",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 51056.0,
+          "price_per_share": 1.56,
+          "dollar_amount": 79647.36,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-05-20",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 5154.0,
+          "price_per_share": 1.56,
+          "dollar_amount": 8040.240000000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-05-21",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 30882.0,
+          "price_per_share": 1.69,
+          "dollar_amount": 52190.58,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-05-21",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 3118.0,
+          "price_per_share": 1.69,
+          "dollar_amount": 5269.42,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-05-29",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 16164.0,
+          "price_per_share": 1.57,
+          "dollar_amount": 25377.48,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-05-29",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 1632.0,
+          "price_per_share": 1.57,
+          "dollar_amount": 2562.2400000000002,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-01",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 14838.0,
+          "price_per_share": 1.55,
+          "dollar_amount": 22998.9,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-01",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 1498.0,
+          "price_per_share": 1.55,
+          "dollar_amount": 2321.9,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-02",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 20753.0,
+          "price_per_share": 1.52,
+          "dollar_amount": 31544.56,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-02",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 2095.0,
+          "price_per_share": 1.52,
+          "dollar_amount": 3184.4,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-03",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 7069.0,
+          "price_per_share": 1.55,
+          "dollar_amount": 10956.95,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-03",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 714.0,
+          "price_per_share": 1.55,
+          "dollar_amount": 1106.7,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 6125.0,
+          "price_per_share": 1.57,
+          "dollar_amount": 9616.25,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 618.0,
+          "price_per_share": 1.57,
+          "dollar_amount": 970.26,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 49966.0,
+          "price_per_share": 1.57,
+          "dollar_amount": 78446.62000000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 5045.0,
+          "price_per_share": 1.57,
+          "dollar_amount": 7920.650000000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 29518.0,
+          "price_per_share": 1.52,
+          "dollar_amount": 44867.36,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 2982.0,
+          "price_per_share": 1.52,
+          "dollar_amount": 4532.64,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "company_name": "Blaize Holdings, Inc.",
+      "ticker": "BZAIW",
+      "insider_name": "Munagala Dinakar",
+      "relationship": "Director, Officer, Chief Executive Officer",
+      "action": "SELL",
+      "dollar_amount": 127000.0,
+      "dollar_amount_fmt": "$127.0K",
+      "file_date": "2026-06-10",
+      "period_ending": "2026-04-17",
+      "accession_number": "0002048309-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1871638/000204830926000005/wk-form4a_1781126035.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-04-17",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 50000.0,
+          "price_per_share": 2.54,
+          "dollar_amount": 127000.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "company_name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "insider_name": "Pomel Olivier",
+      "relationship": "Director, Officer, Chief Executive Officer",
+      "action": "CONVERT",
+      "dollar_amount": null,
+      "dollar_amount_fmt": "N/A",
+      "file_date": "2026-06-10",
+      "period_ending": "2026-05-11",
+      "accession_number": "0001561550-26-000196",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000196/wk-form4a_1781126929.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-05-11",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "A",
+          "shares": 42443.0,
+          "price_per_share": null,
+          "dollar_amount": null,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-05-11",
+          "transaction_code": "C",
+          "action": "CONVERT",
+          "acquired_or_disposed": "D",
+          "shares": 42443.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": true
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "company_name": "Caesars Entertainment, Inc.",
+      "ticker": "CZR",
+      "insider_name": "Pegram Michael E",
+      "relationship": "Director",
+      "action": "SELL (mixed, buy $221,129)",
+      "dollar_amount": 3380392.3079,
+      "dollar_amount_fmt": "$3.38M",
+      "file_date": "2026-06-10",
+      "period_ending": "2023-05-12",
+      "accession_number": "0001366978-26-000009",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1590895/000136697826000009/wk-form4_1781131299.xml",
+      "transactions": [
+        {
+          "transaction_date": "2023-05-12",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 2500.0,
+          "price_per_share": 42.8,
+          "dollar_amount": 107000.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2023-05-16",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 2700.0,
+          "price_per_share": 42.27,
+          "dollar_amount": 114129.00000000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 15200.0,
+          "price_per_share": 29.2001,
+          "dollar_amount": 443841.51999999996,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 13973.0,
+          "price_per_share": 29.3595,
+          "dollar_amount": 410240.2935,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 36027.0,
+          "price_per_share": 29.3072,
+          "dollar_amount": 1055850.4944,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-10",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 50000.0,
+          "price_per_share": 29.4092,
+          "dollar_amount": 1470460.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "company_name": "Vinci Compass Investments Ltd.",
+      "ticker": "VINP",
+      "insider_name": "Ribeiro Sergio Passos",
+      "relationship": "Officer, Chief Financial Officer",
+      "action": "SELL",
+      "dollar_amount": 99385.16,
+      "dollar_amount_fmt": "$99.4K",
+      "file_date": "2026-06-10",
+      "period_ending": "2026-06-08",
+      "accession_number": "0000950103-26-008784",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1826286/000095010326008784/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 3304.0,
+          "price_per_share": 9.59,
+          "dollar_amount": 31685.36,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-09",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 6965.0,
+          "price_per_share": 9.72,
+          "dollar_amount": 67699.8,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "company_name": "Westinghouse Air Brake Technologies Corp",
+      "ticker": "WAB",
+      "insider_name": "Santana Rafael",
+      "relationship": "Director, Officer, President and CEO",
+      "action": "SELL",
+      "dollar_amount": 607921.2446,
+      "dollar_amount_fmt": "$607.9K",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-06-05",
+      "accession_number": "0001628280-26-041829",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026041829/wk-form4_1781026549.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 546.0,
+          "price_per_share": 260.8307,
+          "dollar_amount": 142413.5622,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 378.0,
+          "price_per_share": 261.8479,
+          "dollar_amount": 98978.50619999999,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 160.0,
+          "price_per_share": 262.9896,
+          "dollar_amount": 42078.335999999996,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 79.0,
+          "price_per_share": 263.7203,
+          "dollar_amount": 20833.9037,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 400.0,
+          "price_per_share": 259.6609,
+          "dollar_amount": 103864.36000000002,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 299.0,
+          "price_per_share": 260.7966,
+          "dollar_amount": 77978.18340000001,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 193.0,
+          "price_per_share": 261.8074,
+          "dollar_amount": 50528.828199999996,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 251.0,
+          "price_per_share": 262.8299,
+          "dollar_amount": 65970.3049,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 20.0,
+          "price_per_share": 263.763,
+          "dollar_amount": 5275.259999999999,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "He Hank Shenghua",
+      "relationship": "Director",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052127-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205212726000005/wk-form4a_1781036430.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 78353.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 11780.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 279892.80000000005,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "France Steven",
+      "relationship": "Officer, President, Packaged Meats",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052253-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205225326000005/wk-form4a_1781036381.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 93305.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 14028.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 333305.28,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "Westerbeek Kraig A.",
+      "relationship": "Officer, President, Hog Production",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052178-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205217826000005/wk-form4a_1781036601.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 34319.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 5000.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 118800.00000000001,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "company_name": "Eqt Corp",
+      "ticker": "EQT",
+      "insider_name": "Rice Toby Z.",
+      "relationship": "PRESIDENT & CEO",
+      "action": "SELL",
+      "dollar_amount": 5356619.37,
+      "dollar_amount_fmt": "$5.36M",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-06-05",
+      "accession_number": "0001597385-26-000012",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/33213/000159738526000012/form4-06092026_040601.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 86472.0,
+          "price_per_share": 54.17,
+          "dollar_amount": 4684188.24,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 10511.0,
+          "price_per_share": 55.17,
+          "dollar_amount": 579891.87,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-08",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1731.0,
+          "price_per_share": 53.46,
+          "dollar_amount": 92539.26,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "Bennett Isham Jay",
+      "relationship": "Officer, Chief Human Resources Officer",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052823-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205282326000005/wk-form4a_1781036011.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 14672.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 1632.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 38776.32,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "Owens Donovan",
+      "relationship": "Officer, President, North America Pork",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052866-26-000006",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205286626000006/wk-form4a_1781036470.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 78637.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 10315.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 245084.40000000002,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "Sutton Doug",
+      "relationship": "Officer, Chief Manufacturing Officer",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052095-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205209526000005/wk-form4a_1781036546.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 81446.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 10684.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 253851.84000000003,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "Smith Charles Shane",
+      "relationship": "Director, Officer, President & CEO",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002053145-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205314526000005/wk-form4a_1781036507.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 146190.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 21978.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 522197.28,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "company_name": "Intelligent Protection Management Corp.",
+      "ticker": "IPM",
+      "insider_name": "Adam Katz 2012 Revocable Trust",
+      "relationship": "TenPercentOwner",
+      "action": "BUY",
+      "dollar_amount": 113134.51000000001,
+      "dollar_amount_fmt": "$113.1K",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-04-07",
+      "accession_number": "0001213900-26-066789",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1355839/000121390026066789/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-04-07",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 21512.0,
+          "price_per_share": 1.8,
+          "dollar_amount": 38721.6,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-04-08",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 19951.0,
+          "price_per_share": 1.8,
+          "dollar_amount": 35911.8,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-04-09",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 2200.0,
+          "price_per_share": 1.79,
+          "dollar_amount": 3938.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-04-10",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 19309.0,
+          "price_per_share": 1.79,
+          "dollar_amount": 34563.11,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "company_name": "Smithfield Foods Inc",
+      "ticker": "SFD",
+      "insider_name": "Checkovich Tennille J.",
+      "relationship": "Officer, Chief Legal Officer",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-03-10",
+      "accession_number": "0002052120-26-000005",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/91388/000205212026000005/wk-form4a_1781036133.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 10676.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-03-10",
+          "transaction_code": "F",
+          "action": "TAX WITHHOLD",
+          "acquired_or_disposed": "D",
+          "shares": 1072.0,
+          "price_per_share": 23.76,
+          "dollar_amount": 25470.72,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "company_name": "Kratos Defense & Security Solutions, Inc.",
+      "ticker": "KTOS",
+      "insider_name": "Carter David M",
+      "relationship": "Officer, President, DRSS Division",
+      "action": "SELL",
+      "dollar_amount": 236659.41999999998,
+      "dollar_amount_fmt": "$236.7K",
+      "file_date": "2026-06-09",
+      "period_ending": "2026-06-05",
+      "accession_number": "0001509412-26-000007",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/1069258/000150941226000007/primary_doc.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1400.0,
+          "price_per_share": 58.1093,
+          "dollar_amount": 81353.01999999999,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1200.0,
+          "price_per_share": 58.9892,
+          "dollar_amount": 70787.04,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 1200.0,
+          "price_per_share": 60.1253,
+          "dollar_amount": 72150.36,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-05",
+          "transaction_code": "S",
+          "action": "SELL",
+          "acquired_or_disposed": "D",
+          "shares": 200.0,
+          "price_per_share": 61.845,
+          "dollar_amount": 12369.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "company_name": "First Citizens Bancshares Inc /De/",
+      "ticker": "FCNCN",
+      "insider_name": "Holding Frank B Jr",
+      "relationship": "Chairman and CEO",
+      "action": "BUY",
+      "dollar_amount": 394189.14,
+      "dollar_amount_fmt": "$394.2K",
+      "file_date": "2026-06-08",
+      "period_ending": "2026-06-04",
+      "accession_number": "0001193125-26-262386",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/798941/000119312526262386/ownership.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 3.0,
+          "price_per_share": 1712.99,
+          "dollar_amount": 5138.97,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 1.0,
+          "price_per_share": 1721.99,
+          "dollar_amount": 1721.99,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 1.0,
+          "price_per_share": 1727.99,
+          "dollar_amount": 1727.99,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 31.0,
+          "price_per_share": 1730.29,
+          "dollar_amount": 53638.99,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 35.0,
+          "price_per_share": 1731.99,
+          "dollar_amount": 60619.65,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15.0,
+          "price_per_share": 1733.0,
+          "dollar_amount": 25995.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 26.0,
+          "price_per_share": 1734.0,
+          "dollar_amount": 45084.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 12.0,
+          "price_per_share": 1744.0,
+          "dollar_amount": 20928.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15.0,
+          "price_per_share": 1765.0,
+          "dollar_amount": 26475.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 15.0,
+          "price_per_share": 1770.0,
+          "dollar_amount": 26550.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 6.0,
+          "price_per_share": 1775.0,
+          "dollar_amount": 10650.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 20.0,
+          "price_per_share": 1778.0,
+          "dollar_amount": 35560.0,
+          "is_derivative": false
+        },
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "P",
+          "action": "BUY",
+          "acquired_or_disposed": "A",
+          "shares": 45.0,
+          "price_per_share": 1779.99,
+          "dollar_amount": 80099.55,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "company_name": "Silexion Therapeutics Corp",
+      "ticker": "SLXNW",
+      "insider_name": "Hadar Ilan",
+      "relationship": "Director, Officer, Chairman and CEO",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-08",
+      "period_ending": "2026-06-04",
+      "accession_number": "0001178913-26-003132",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/2022416/000117891326003132/zk2635515.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 10000.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "company_name": "Silexion Therapeutics Corp",
+      "ticker": "SLXNW",
+      "insider_name": "Shirvan Mitchell",
+      "relationship": "Officer, CSO and CDO",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-08",
+      "period_ending": "2026-06-04",
+      "accession_number": "0001178913-26-003136",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/2022416/000117891326003136/zk2635517.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 6000.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "company_name": "Silexion Therapeutics Corp",
+      "ticker": "SLXNW",
+      "insider_name": "Horenshtein Hadar Mirit",
+      "relationship": "Officer, CFO and Secretary",
+      "action": "AWARD",
+      "dollar_amount": 0.0,
+      "dollar_amount_fmt": "$0.00",
+      "file_date": "2026-06-08",
+      "period_ending": "2026-06-04",
+      "accession_number": "0001178913-26-003134",
+      "sec_filing_url": "https://www.sec.gov/Archives/edgar/data/2022416/000117891326003134/zk2635516.xml",
+      "transactions": [
+        {
+          "transaction_date": "2026-06-04",
+          "transaction_code": "A",
+          "action": "AWARD",
+          "acquired_or_disposed": "A",
+          "shares": 7500.0,
+          "price_per_share": 0.0,
+          "dollar_amount": 0.0,
+          "is_derivative": false
+        }
+      ]
+    }
+  ]
+}
